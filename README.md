@@ -12,4 +12,4 @@ Linguagem utilizada: Python
 
 #Agradecimentos
 O meu muito obrigado ao professor João Carlos de Moraes pela oportunidade de realizar o trabalho.
-O conhecimento adiquirido foi enorme. Abrindo perspectivas que eu ainda não havia sonhado.
+O conhecimento adquirido foi enorme. Abrindo novas perspectivas e sonhos.
